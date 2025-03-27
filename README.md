@@ -130,6 +130,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ishita2207/Ishita2207/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Ishita2207/Ishita2207/blob/output/github-contribution-grid-snake.svg)
 
 ###
