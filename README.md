@@ -130,6 +130,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Ishita2207/Ishita2207/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
